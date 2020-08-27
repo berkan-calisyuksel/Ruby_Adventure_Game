@@ -1,1 +1,2 @@
-It is still in the development phase.
+Developed with Unity
+It is still under development
